@@ -6,16 +6,16 @@
 .hero-section {
   margin-left: auto;
   margin-right: auto;
-  width: 380px;
-  height: 500px;
+  /* width: 380px;
+  height: 500px; */
   background-color: #07091f;
   border-radius: 25px;
   border: 5px solid white;
   height: var(--tg-viewport-stable-height) .;
 }
 .container {
-  width: 380px;
-  height: 500px;
+  /* width: 380px;
+  height: 500px; */
   border: solid tomato 1px;
 }
 .hero-title {
